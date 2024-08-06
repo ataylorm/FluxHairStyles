@@ -10,7 +10,7 @@ The list of hair styles was curated by ChatGPT. Note that this list is not exhau
 
 To view the images in a grid layout, please open the `index.html` file included in this repository.
 
-[View All Images In Grid](index.html)
+[View All Images In Grid](FluxHairStyles.jpg)
 
 ## Contributing
 
