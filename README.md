@@ -1,8 +1,10 @@
+
+
 # Image Collection Project
 
 ## Description
 
-This repository contains a collection of images generated using Flux1-dev-fp8 within the SwarmUI/ComfyUI environments, using basic settings. The focus of this project is to explore various hair styles through generative art. Each image adheres to the following prompt format: "a photograph of a 25-year-old woman with [hair style]". This approach was chosen after discovering that specific hair styles did not universally adapt well to different ethnicities.
+This repository contains a collection of images generated using Flux1-dev-fp8 within the SwarmUI/ComfyUI environments, using basic settings. The focus of this project is to explore various hair styles through generative art. Each image adheres to the following prompt format: "a photograph of a 25 year old woman with [hair style] hair". This approach was chosen after discovering that specific hair styles did not universally adapt well to different ethnicities.
 
 The list of hair styles was curated by ChatGPT. Note that this list is not exhaustive and may contain a few duplicates. The intent behind this project is to continuously expand and refine the collection of hair styles.
 
